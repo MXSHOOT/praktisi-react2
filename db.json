@@ -1,0 +1,36 @@
+{
+  "soal2": [
+    {
+      "name": "yanto",
+      "alamat": "jl.com",
+      "gender": "Pria",
+      "tgl": "2000-09-22 15:20",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "ff",
+      "alamat": "fff",
+      "gender": "Wanita",
+      "tgl": "23 09 2323",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "sdas",
+      "alamat": "dsada",
+      "gender": "Pria",
+      "tgl": "wdwd",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "wdd",
+      "alamat": "wdw",
+      "gender": "Pria",
+      "tgl": "2022-07-31T17:00:00.000Z",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
